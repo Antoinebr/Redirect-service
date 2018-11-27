@@ -6,7 +6,7 @@ COPY . .
 # If you have native dependencies, you'll need extra tools
 # RUN apk add --no-cache make gcc g++ python
 
-RUN apk add curl -y 
+RUN apk add curl
 
 RUN npm install
 
