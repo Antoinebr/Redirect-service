@@ -14,3 +14,4 @@ variables.env.now
 .sass-cache 
 
 # Project specific
+docker-compose.yml
